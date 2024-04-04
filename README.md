@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div id="header" align="center"">
+  <img   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG40amF3MGx3bG56aDRyNGxtazk0aGxmNDQ3a2FoZGp1dmt0bDFrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif" width="100">
+</div>
 <!--
 **AlGrushino/AlGrushino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
