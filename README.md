@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on s21_decimal
-- 🌱 I’m currently learning C, Python and Go
-- 👯 I’m looking to collaborate on School 21 projects
+- 🔭 I’m currently working on Golang projects
+- 🌱 I’m currently learning Go and Python
+- 👯 I’m looking to collaborate on job with Golang
 - 📫 How to reach me: @AlGrushino
